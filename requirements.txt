@@ -1,4 +1,4 @@
 streamlit
 pandas
 openpyxl
-crewai==0.28.8
+crewai==0.51.1
