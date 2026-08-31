@@ -1,5 +1,4 @@
 streamlit
 pandas
 openpyxl
-crewai
-crewai-tools
+crewai==0.28.8
